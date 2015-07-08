@@ -4,7 +4,7 @@ xrdb -merge .Xresources
 [ -f $HOME/base16.xresources ] && xrdb -merge $HOME/base16.xresources
 
 trayer --edge top --align right --SetDockType true --SetPartialStrut true \
- --expand true --width 10 --transparent true --tint 0x191970 --height 17 &
+ --expand true --width 10 --transparent true --alpha 0 --tint 0x000000 --height 17 &
 
 xscreensaver -no-splash &
 
