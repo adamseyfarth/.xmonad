@@ -2,3 +2,11 @@
 
 Adam Seyfarth's xmonad configuration.  Started by following
 [[https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen%2527s_Configuration][John Goerzen's step-by-step guide to configuring xmonad]].
+
+** Installation
+
+- [[https://github.com/adamseyfarth/dotfiles][dotfiles]] should be cloned into the home directory.
+- ~xmonad-start.desktop~ needs to be in ~/usr/share/xsessions~.
+- Should install [[http://www.jwz.org/xscreensaver/][xscreensaver]], [[http://xmobar.org/][xmobar]], ~trayer~, ~rxvt-unicode~.
+- ~ln -s .xmonad/.xmobarrc ~/.xmobarrc~
+- [[http://www.nws.noaa.gov/tg/siteloc.php][Find an ICAO station]]
