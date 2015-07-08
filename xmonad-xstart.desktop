@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Xmonad (running xmonad.start)
+Comment=Lightweight tiling window manager
+#Exec=xmonad
+Exec=/home/aseyfarth/.xmonad/xmonad.start
+Icon=xmonad.png
+Type=XSession
