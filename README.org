@@ -1,0 +1,4 @@
+* .xmonad
+
+Adam Seyfarth's xmonad configuration.  Started by following
+[[https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen%2527s_Configuration][John Goerzen's step-by-step guide to configuring xmonad]].
